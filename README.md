@@ -7,6 +7,12 @@
 
 # Objetivos do código
 Ser um sistema para analisar como as pessoas avaliam um supermecado;
+
+
 Recolhe em si informações da quantidade de tempo perdida nas filas de atendimento;
+
+
 A opinião dos clientes em relação a política do Supermercado;
+
+
 E um espaço para sugestões de melhorias para o Supermercado.
