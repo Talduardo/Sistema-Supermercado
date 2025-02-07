@@ -1,11 +1,11 @@
-### Olá! Seja bem vindo  👋
+# Olá! Seja bem vindo  👋
 
 ## Tecnologias que usadas no código:
 <div style="display: inline_block"><br/>
 <img align="center" alt="python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div<br/>
 
-# Objetivos do código
+# Objetivos do código: 
 Ser um sistema para analisar como as pessoas avaliam um supermecado;
 
 
